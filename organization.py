@@ -1,4 +1,0 @@
-class Employees:
-
-class HelloWorld:
-
